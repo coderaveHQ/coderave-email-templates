@@ -16,4 +16,10 @@ Run the development server:
 pnpm dev
 ```
 
+Export the email templates:
+
+```bash
+pnpm export
+```
+
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.

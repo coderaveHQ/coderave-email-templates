@@ -3,13 +3,6 @@
 # Dependencies
 node_modules/
 
-# Local env files
-.env
-.env.local
-.env.development.local
-.env.test.local
-.env.production.local
-
 # Build Outputs
 .react-email/
 out/
